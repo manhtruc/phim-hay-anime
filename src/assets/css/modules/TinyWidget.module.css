@@ -1,0 +1,32 @@
+.widget {
+  font-size: 13px;
+  color: #ffffff;
+  background: #3d3d3d;
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 4px;
+  position: absolute;
+}
+
+.icon {
+  padding-right: 5px;
+}
+
+.topLeft {
+  left: 10px;
+  top: 10px;
+}
+.topRight {
+  top: 10px;
+  right: 10px;
+}
+
+.bottomRight {
+  right: 10px;
+  bottom: 10px;
+}
+
+.bottomLeft {
+  left: 10px;
+  bottom: 10px;
+}

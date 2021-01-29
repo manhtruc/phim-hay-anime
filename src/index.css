@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.hero__slider.owl-carousel .owl-nav button.owl-next {
+    right: -34px !important;
+    top: 55% !important;
+  border: none;
+
+} 
+
+.hero__slider.owl-carousel .owl-nav button.owl-prev {
+    left: -33px !important;
+  border: none;
+    top: 55% !important;
+} 
+
+.hero__slider.owl-carousel {
+  position: relative;
+}
+
+.hero__slider.owl-carousel .owl-dots button{
+  border: none;
+}

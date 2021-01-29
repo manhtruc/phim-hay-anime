@@ -1,0 +1,55 @@
+.layout {
+  margin-bottom: 35px;
+}
+
+.headTitle {
+}
+
+.container {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.picture {
+  height: 130px;
+  width: 90px;
+  position: relative;
+  /* border-radius: 5px; */
+  float: left;
+  margin-right: 15px;
+}
+
+.text {
+  overflow: hidden;
+}
+
+.text ul {
+  margin-bottom: 10px;
+}
+
+.text ul li {
+  list-style: none;
+  font-size: 10px;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 1px 10px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.text h5 {
+  margin-bottom: 10px;
+}
+
+.text h5 a {
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 26px;
+}
+
+.text span {
+  display: block;
+  font-size: 13px;
+  color: #b7b7b7;
+}
